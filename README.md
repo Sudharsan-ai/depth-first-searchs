@@ -124,6 +124,8 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['0', '1', '2', '3', '4']
+
+
 <img width="671" height="300" alt="image" src="https://github.com/user-attachments/assets/5053181c-1d21-4983-b19d-8d524c61508d" />
 
 <hr>
